@@ -2,6 +2,8 @@
 # Simple GPIO library for Raspberry Pi in Go
 
 This module implements a Go module to manipulate the GPIO pins.
+It has been created as a first try to understand the Raspberry Pi programming and GPIO.
+If you look for a decent implementation that will work in furture linux versions have a look at [gpiod](https://github.com/warthog618/gpiod). 
 
 ## Features
 
